@@ -2,4 +2,4 @@
 
 ## Linux
 
-* [SuperTuxKart](https://git.ams-01.rexum.space/rexum/stk-code) - Open Source Kart racing Game.
+* [SuperTuxKart](https://github.com/rexjohannes/games/wiki/SuperTuxKart) - Open Source Kart racing Game.

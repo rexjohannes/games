@@ -3,3 +3,4 @@
 ## Linux
 
 * [SuperTuxKart](https://github.com/rexjohannes/games/wiki/SuperTuxKart) - Open Source Kart racing Game.
+* [Torcs](https://github.com/rexjohannes/games/wiki/Torcs) - Open Source Racing Game.
